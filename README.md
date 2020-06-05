@@ -41,15 +41,14 @@ Food For All is a platform to connect NGOs, Foundations, Instituites and individ
 This will be a technical description of the solution.
 
 **Step 1. Data Sourcing** 
-    - **Watson discovery** is an enterprise search engine that can comb through a unstructured "document collection" and retireve the relevant information based on a search query criteria. The document collection that we have used for building the solution is the standard open news portals and webpages. Some of the sample search query strings that we have used for demo are" 
-      - "migrant labourers india"
-      - "containment zones"
-      - "government quarantine"
+    - **Watson discovery** is an enterprise search engine that can comb through a unstructured "document collection" and retireve the relevant information based on a search query criteria. The document collection that we have used for building the solution is the standard open news portals and webpages. Some of the sample search query strings that we have used for demo are 
+       - "migrant labourers india"
+       - "containment zones"
+       - "government quarantine"
     -  This results in a set of results in the JSON format with relevant snapshot passages and the link to the news portal.
 For example
- ```
- {"id":"43n8kjT2J9iDSfShiBm-Tbct_3RDKPlhhuvK5-iGvimrGsGq7MJ23CelkoqpNVcl","result_metadata":{"score":13.553546},"text":"Kolkata: Bihar migrant workers return to Patna from Ernakulam via a Special Shramik train during the extended nationwide lockdown, on May 4, 2020. (Photo: IANS) A 1000-bed facility being contructed at the exhibition ground in Mumbai's Bandra Kurla Complex to provide quarantine and isolation facilities for non-critical COVID-19 patients during"},{"id":"iIJskt42jTul79P790Kv11j3cykUlb8kwzlkiaztvg1DfyaW9MOAZ5Qrqnvn_AbG"
- ```
+ `{"id":"43n8kjT2J9iDSfShiBm-Tbct_3RDKPlhhuvK5-iGvimrGsGq7MJ23CelkoqpNVcl","result_metadata":{"score":13.553546},"text":"Kolkata: Bihar migrant workers return to Patna from Ernakulam via a Special Shramik train during the extended nationwide lockdown, on May 4, 2020. (Photo: IANS) A 1000-bed facility being contructed at the exhibition ground in Mumbai's Bandra Kurla Complex to provide quarantine and isolation facilities for non-critical COVID-19 patients during"},{"id":"iIJskt42jTul79P790Kv11j3cykUlb8kwzlkiaztvg1DfyaW9MOAZ5Qrqnvn_AbG"`
+ 
   - **Storage** - For data storage we plan to use **MongoDB** for JSON data and **DB2** for final transactional data for the web portal.
   
 **Step 2. Data Parsing** 
