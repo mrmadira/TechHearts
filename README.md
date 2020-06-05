@@ -5,22 +5,22 @@ The platform is to help out the less privileged people that are stranded, isolat
 
 ## Contents
 
-1. Short description
-2. Usecase Demo Video
-3. Technical Demo Video
-4. Architecture
-5. Long description
-6. Project roadmap
-7. Live demo
-8. Built with
-9. Authors
-10. Acknowledgments
+1. [Short description](#short-description)
+2. [Usecase Demo Video](#usecase-demo-video)
+3. [Technical Demo Video](#technical-demo-video)
+4. [Architecture](#architecture)
+5. [Long description](#long-description)
+6. [Project roadmap](#project-roadmap)
+7. [Live demo](#live-demo)
+8. [Built with](#built-with)
+9. [Authors](#authors)
+10. [Acknowledgments](#acknowledgements)
 
-## Short Description : 
+## Short Description 
 
   **Problem Statement**
-  _"If Covid doesn't kill you - Hunger will"_ That seems to be the heartbreaking reality for the millions of daily wage workers and migrant labourers who suddenly have no jobs and no source of income. If the most basic necessity - two square meals a day, are not met, they do not stand a chance for survival. This is the time that requires humankind to come together, united as one family, by caring for and providing for the lesser privileged sections of the society that have been the foundations of our daily comfortable life.
-  It requires the coming together of NGOs, governments, industries, foundations and the common public, both in terms of funding and distribution management on the field to the needy.
+  - _"If Covid doesn't kill you - Hunger will"_ That seems to be the heartbreaking reality for the millions of daily wage workers and migrant labourers who suddenly have no jobs and no source of income. If the most basic necessity - two square meals a day, are not met, they do not stand a chance for survival. This is the time that requires humankind to come together, united as one family, by caring for and providing for the lesser privileged sections of the society that have been the foundations of our daily comfortable life.
+ - It requires the coming together of NGOs, governments, industries, foundations and the common public, both in terms of funding and distribution management on the field to the needy.
   
  **Solution Overview**
  - In order to provide the right kind of aid to the right people at the right time, we need to have access to the right information. We plan to use various sources like news portals, government communications, volunteer alerts to get the real time information of migrants/daily-wage workers location, in-transit information, government quarantine institutes, containment zones and extract that information to get exact location coordinates where help is required. 
