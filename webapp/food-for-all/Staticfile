@@ -1,0 +1,4 @@
+root: public
+pushstate: enabled
+root: public
+location_include: includes/*.conf

@@ -1,0 +1,7 @@
+---
+applications:
+- name: food-for-all
+  buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git
+path: build/
+memory: 64M
+instances: 1

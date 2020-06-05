@@ -1,0 +1,47 @@
+{
+  "name": "food-for-all",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@carbon/grid": "^10.8.0",
+    "@carbon/icons": "^10.8.0",
+    "@carbon/icons-react": "^10.8.0",
+    "@carbon/themes": "^10.9.3",
+    "axios": "^0.19.2",
+    "carbon-addons-cloud": "^4.2.0",
+    "carbon-components": "^10.12.0",
+    "carbon-components-react": "^7.12.0",
+    "carbon-icons": "^7.0.7",
+    "node-sass": "^4.14.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "build-prd": "cross-env GENERATE_SOURCEMAP=false react-scripts build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.2"
+  }
+}
