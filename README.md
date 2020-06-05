@@ -39,6 +39,7 @@ Food For All is a platform to connect NGOs, Foundations, Instituites and individ
 
 ## Long Description
 This will be a technical description of the solution.
+
 **Step 1. Data Sourcing** 
     - **Watson discovery** is an enterprise search engine that can comb through a unstructured "document collection" and retireve the relevant information based on a search query criteria. The document collection that we have used for building the solution is the standard open news portals and webpages. Some of the sample search query strings that we have used for demo are" 
       - "migrant labourers india"
@@ -52,7 +53,7 @@ For example
   - **Storage** - For data storage we plan to use **MongoDB** for JSON data and **DB2** for final transactional data for the web portal.
   
 **Step 2. Data Parsing** 
-   - From the JSON data, entities such as the LOCATION (Kolkota, Bihar, Patna, Ernakulam, Bandra Kurla Complex), DATE (May 4th, 2020), QUANTITY (1000) is extracted to construct meaningful information about WHERE exactly help is required and by WHEN. 
+   - From the JSON data, entities such as the LOCATION (`Kolkota, Bihar, Patna, Ernakulam, Bandra Kurla Complex`), DATE (`May 4th, 2020`), QUANTITY (`1000`) is extracted to construct meaningful information about WHERE exactly help is required and by WHEN. 
    - This requires NLP and Text Analytics to extract the right information. For example, from the above snippet - potentially, only the migrant workers require help. The second news item is just _informational_ news about the preparation of facilities by the government.  We plan to use **Watson Natural Language Processor** to do the extraction. For the purpose of demo, we have extracted information manually.
    
 **Step 3. Data Analytics**
@@ -69,6 +70,7 @@ For example
    
  **Step 5. Web Portal**
  - This is the user interface portal for the stake holders such as the NGOs and the portal admins to login and check for help requests and take action. It gives a display of the location, quantity and due date for the items. Action can be taken by NGOs to accept the call or deny if they are unable to fulfill the request.
+ - The webapp has been developed using ReactJS and deployed on Cloud Foundry. Design uses IBM Carbon components that offers a unified and integrated user experience. 
  
    
 ## Project Roadmap
@@ -86,7 +88,7 @@ http://food-for-all.mybluemix.net/
 Driven by TechHearts, Powered on IBM Cloud
 1. [Watson Discovery](https://cloud.ibm.com/catalog/services/discovery?location=eu-gb)
 2. [Apache Spark](https://spark.apache.org/) on [Watson Studio](https://cloud.ibm.com/catalog/services/watson-studio) 
-3. React JS Web App deployed on IBM Cloud Foundry. Design uses [IBM Carbon Components](https://www.carbondesignsystem.com/tutorial/react/overview) 
+3. [React JS Web App deployed on IBM Cloud Foundry](https://www.cloudfoundry.org/the-foundry/ibm-cloud-foundry/#). Design uses [IBM Carbon Components](https://www.carbondesignsystem.com/tutorial/react/overview) 
 4. [IBM Cognos Dashboard](https://cloud.ibm.com/catalog/services/ibm-cognos-dashboard-embedded)
 
 Coming up in the roadmap...
