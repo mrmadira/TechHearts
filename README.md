@@ -16,7 +16,7 @@ The platform is to help out the less privileged people that are stranded, isolat
 9. Authors
 10. Acknowledgments
 
-## Short DeProblem Statement : 
+## Short Description : 
 
   **Problem Statement**
   _"If Covid doesn't kill you - Hunger will"_ That seems to be the heartbreaking reality for the millions of daily wage workers and migrant labourers who suddenly have no jobs and no source of income. If the most basic necessity - two square meals a day, are not met, they do not stand a chance for survival. This is the time that requires humankind to come together, united as one family, by caring for and providing for the lesser privileged sections of the society that have been the foundations of our daily comfortable life.
@@ -58,11 +58,11 @@ Coming up in the roadmap..
 
 
 ## Authors
-1. Deepashree Gandhi ()
-2. Lawang Mishra
-3. Mrudula Madiraju
-4. Rakhi Arora
-5. Surbhi Bakhtiyar
+1. [Deepashree Gandhi](https://github.com/deepashreeraghu)
+2. [Lawang Mishra](https://github.com/lawmishr)
+3. [Mrudula Madiraju] (https://github.com/mrmadira)
+4. [Rakhi Arora](https://github.com/rakharor)
+5. [Surbhi Bakhtiyar](https://github.com/surbhibakhtiyar)
 
 ## Acknowledgements
 
