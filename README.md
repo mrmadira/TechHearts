@@ -13,7 +13,7 @@ Food For All is a platform to connect NGOs, Foundations, Instituites and individ
 7. [Live demo](#live-demo)
 8. [Built with](#built-with)
 9. [Authors](#authors)
-10. [Acknowledgments](#acknowledgements)
+10.[Acknowledgments](#acknowledgements)
 
 ## Short Description 
 
@@ -29,6 +29,9 @@ Food For All is a platform to connect NGOs, Foundations, Instituites and individ
 - Our solution is a one-stop technical platform where we connect the NGOs to the exact location coordinates where help is required
 
 ## Usecase Demo Video
+
+[![Usecase Video](https://user-images.githubusercontent.com/26574170/83936366-b20e0e80-a7e0-11ea-8a26-70ab96613b2d.png)]
+(https://www.youtube.com/watch?v=ipGtl8ZZUMc&feature=youtu.be)
 
 ## Technical Demo Video
 
@@ -79,8 +82,10 @@ For example
    - Citizen Volunteer Alerts - Connecting individuals to the platform. 
 
 ## Live Demo
-Go Ahead! Try it out! Don't forget to look at the dashboard too! :) 
+
 http://food-for-all.mybluemix.net/
+
+Go Ahead! Try it out! Don't forget to look at the dashboard too! :) 
 
 ## Built With
 
