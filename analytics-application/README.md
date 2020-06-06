@@ -4,6 +4,7 @@
 The Analytics App has been developed using Watson Stuido Notebook. The runtime used in Python-Spark. The App makes use of Discovery, GeoPositional API and Spatio temporal libraries for analytics to locate the nearest NGOs for a given location that needs aid.
 
 **CLICK ME TO SEE THE ANALYTICS APPLICATION IN ACTION** 
+
 To view full `FoodForAllNotebook.ipynb`, click on the following link:
 https://nbviewer.jupyter.org/github/mrmadira/TechHearts/blob/master/analytics-application/FoodForAllNotebook.ipynb
 
