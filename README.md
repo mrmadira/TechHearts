@@ -73,13 +73,27 @@ For example
  **Step 5. Web Portal**
  - This is the user interface portal for the stake holders such as the NGOs and the portal admins to login and check for help requests and take action. It gives a display of the location, quantity and due date for the items. Action can be taken by NGOs to accept the call or deny if they are unable to fulfill the request.
  - The webapp has been developed using ReactJS and deployed on Cloud Foundry. Design uses IBM Carbon components that offers a unified and integrated user experience. 
- 
-   
+ - There are 3 links in the portal:
+      - a. AdminView - This is the screen that appears for the Admin of the platform - who will be able to see overall call for help across the country. After initial verification, depending on the urgency and other such critera, the admin can choose to alert the NGOs either at a local level (within 50 KMs) or national level (if the resources required are larger)
+      - b. NGOView - This is the screen that appears for the NGO that has enrolled on the platform. They will get a notification if any alert comes to hem requesting for help. They can review the request, and based on their resource capabilty accept to help or deny if they are not able to. 
+      - c. Dashboards - This is the charting that we talked about earlier in Step4. It shows the trends and patterns that gives the user a quick overview across the country.
+    
 ## Project Roadmap
  - In the last three days of the hackathon, we have had time only to demonstrate the main key features that shows the flow end to end. Our vision for making this a complete platform includes (but is not limited to) the following:
-   - Watson Machine Learning - for predictive analytics for accurate predictions on the locations and quantity of help required.
-   - Mobile App - that will be complementary to the webapp
-   - Citizen Volunteer Alerts - Connecting individuals to the platform. 
+     
+       - Watson Machine Learning - for predictive analytics for accurate predictions on the locations and quantity of help required.
+       - Mobile App - that will be complementary to the webapp
+       - Citizen Volunteer Alerts - Connecting individuals to the platform. 
+
+- We also plan to build in more content around the acknowledgements for the work done by capturing the joy of receivers whose demand were fulfilled so that it creates a positive feeling and encourage people to give-back to society.
+
+- **LONG TERM VISION** 
+     
+      - While the motivatation for this project was to address the migrant labourers solution, we realize that it can help in more situations that will only increase in the coming days. There maybe slums or areas in city that are sealed up because of increasing number of positive cases, containment zones, border quarantine camps etc where people may not have proper access to facilities. Government could do with helping hands to handle the unprecendented need for aid. 
+   
+      - Even after the pandemic is over, there will always be situations when we will need one another. The seeker and aid provider collaboration platform will help in any disaster situation.
+   
+      - Service Providers like Amzaon , Flipkart can also come in the picture to deliver essentials in the area. Infact amazon has already a Donation Box service https://www.amazon.in/Essentials-Box-Donation-Provides-meals/dp/B0874W97YZ that partners with Akshay Patra(AP) for delivery. This can be expaneded for including more NGOs by connecting through the FoodForAll platform.
 
 ## Live Demo
 
@@ -96,16 +110,29 @@ Driven by TechHearts, Powered on IBM Cloud
 4. [IBM Cognos Dashboard](https://cloud.ibm.com/catalog/services/ibm-cognos-dashboard-embedded)
 
 Coming up in the roadmap...
+
 5. [MongoDB](https://cloud.ibm.com/catalog/services/databases-for-mongodb)
 6. [DB2](https://cloud.ibm.com/catalog/services/db2)
 7. [Natural Language Service](https://cloud.ibm.com/catalog/services/natural-language-understanding)
 8. [Machine Learning](https://cloud.ibm.com/catalog/services/machine-learning)
 
 ## FAQ
-Q. Why is the platform called FoodForAll when you have other supplies too?
+
+**Q. Why is the platform called FoodForAll when you have other supplies too?**
+
 A. Food and water are the basic necessities; What drove us to this idea is seeing heart-wrenching pictures of families with kids and elders walking in the hot sun for days together and lying in a collapsed heap at the end of the ordeal. FoodForAll appeals to that ethos. At the same time we recognize the power of the platform - it can be used as a distribution system for more than food - anything from survival kits, sanitizers, medicines and all other supplies. So we demonstrate the full capability.
 
-Q. 
+**Q. What happens if multiple NGO accept a same request?**
+
+A. Once once NGO accepts a request, the state of the request changes to "Accepted", so that other NGOs are aware of it.
+
+**Q. What if an NGO is able to fulfill only partial request like say 100 out of total demand of 1000?**
+
+A. We plan to build in functionality for specifying the quantity that can be fulfilled when the request is accepted.
+
+**Q. What is the Long Term Vision of this platform?**
+
+A. [Please read about our long term vision here](#project_roadmap)
 
 
 ## Authors
