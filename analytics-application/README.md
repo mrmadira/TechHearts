@@ -8,4 +8,4 @@ The Analytics App has been developed using Watson Stuido Notebook. The runtime u
 To view full `FoodForAllNotebook.ipynb`, click on the following link:
 https://nbviewer.jupyter.org/github/mrmadira/TechHearts/blob/master/analytics-application/FoodForAllNotebook.ipynb
 
-Due to an issue with folium maps not being rendered on Github - so clicking on the code (that is the .ipynb file) will not show the full functionality as explained [here](https://github.com/python-visualization/folium/issues/1072#issuecomment-464950682)
+_Due to an issue with folium maps not being rendered on Github - so clicking on the code (that is the .ipynb file) will not show the full functionality as explained [here](https://github.com/python-visualization/folium/issues/1072#issuecomment-464950682)_
