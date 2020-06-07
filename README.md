@@ -33,6 +33,8 @@
 [![Usecase Video](https://user-images.githubusercontent.com/26574170/83936366-b20e0e80-a7e0-11ea-8a26-70ab96613b2d.png)](https://www.youtube.com/watch?v=ipGtl8ZZUMc&feature=youtu.be)
 
 ## Technical Demo Video
+[![Technical Video](https://user-images.githubusercontent.com/26574170/83958855-2e155e80-a894-11ea-991d-5396e4ece79d.png)](https://www.youtube.com/watch?time_continue=74&v=VmSg-6YZeA4&feature=emb_logo)
+
 
 ## Architecture
 ![FoodForAll (16) (2)](https://user-images.githubusercontent.com/26574170/83896952-8e13e400-a772-11ea-92c0-1245ff285ae6.png)
