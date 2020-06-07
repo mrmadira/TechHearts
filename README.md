@@ -91,7 +91,7 @@ For example
 
 - **LONG TERM VISION** 
      
-     - While the motivation for this project was to address the migrant labourers solution, we realize that it can help in more situations that will only increase in the coming days. There maybe slums or areas in city that are sealed up because of increasing number of positive cases, containment zones, border quarantine camps etc where people may not have proper access to facilities. We should complement the government's efforst with more helping hands to handle the unprecendented need for aid. 
+     - While the motivation for this project was to address the migrant labourers solution, we realize that it can help in more situations that will only increase in the coming days. There maybe slums or areas in city that are sealed up because of increasing number of positive cases, containment zones, border quarantine camps etc where people may not have proper access to facilities. We should complement the government's efforts with more helping hands to handle the unprecendented need for aid. 
    
      - Even after the pandemic is over, there will always be situations when we will need one another. The seeker and aid provider collaboration platform will help in any disaster situation.
    
@@ -110,11 +110,12 @@ Driven by TechHearts, Powered on IBM Cloud
 2. [Apache Spark](https://spark.apache.org/) on [Watson Studio](https://cloud.ibm.com/catalog/services/watson-studio) 
 3. [React JS Web App deployed on IBM Cloud Foundry](https://www.cloudfoundry.org/the-foundry/ibm-cloud-foundry/#). Design uses [IBM Carbon Components](https://www.carbondesignsystem.com/tutorial/react/overview) 
 4. [IBM Cognos Dashboard](https://cloud.ibm.com/catalog/services/ibm-cognos-dashboard-embedded)
+5. [Cloud Object Storage](https://cloud.ibm.com/catalog/services/cloud-object-storage) 
 
 Coming up in the roadmap...
 
-5. [MongoDB](https://cloud.ibm.com/catalog/services/databases-for-mongodb)
-6. [DB2](https://cloud.ibm.com/catalog/services/db2)
+5. [MongoDB](https://cloud.ibm.com/catalog/services/databases-for-mongodb) 
+6. [DB2](https://cloud.ibm.com/catalog/services/db2) 
 7. [Natural Language Service](https://cloud.ibm.com/catalog/services/natural-language-understanding)
 8. [Machine Learning](https://cloud.ibm.com/catalog/services/machine-learning)
 
