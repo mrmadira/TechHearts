@@ -141,5 +141,5 @@ Coming up in the roadmap...
 5. [Surbhi Bakhtiyar](https://github.com/surbhibakhtiyar)
 
 ## Acknowledgements
-[Shruthi S Rao](https://github.com/shruthra)
+[Shruthi S Rao](https://github.com/shruthra) for mentoring on the interface of the UI
 
