@@ -33,7 +33,7 @@
 [![UseCase Video](https://user-images.githubusercontent.com/26574170/83961522-9888c780-a8b1-11ea-816b-4b520795ae73.png)](https://www.youtube.com/watch?v=ipGtl8ZZUMc&feature=youtu.be)
 
 ## Technical Demo Video
-[![Technical Video](https://user-images.githubusercontent.com/26574170/83961491-30d27c80-a8b1-11ea-81ca-316dc19fa590.png)](https://youtu.be/VmSg-6YZeA4)
+[![Technical Video](https://user-images.githubusercontent.com/26574170/83961491-30d27c80-a8b1-11ea-81ca-316dc19fa590.png)](https://www.youtube.com/watch?v=FvljRu0pdZM&feature=youtu.be)
 
 
 ## Architecture
